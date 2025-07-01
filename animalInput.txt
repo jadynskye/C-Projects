@@ -1,0 +1,15 @@
+Lion
+Mammal
+101
+8.0
+420.5
+Snake
+Reptile
+102
+5.0
+12.3
+Parrot
+Bird
+103
+3.0
+18.9
